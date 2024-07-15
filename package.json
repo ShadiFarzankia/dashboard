@@ -1,0 +1,14 @@
+{
+  "name": "1d6047f37bf695e9",
+  "main": "1d6047f37bf695e9@232.js",
+  "version": "232.0.0",
+  "homepage": "https://observablehq.com/d/1d6047f37bf695e9",
+  "author": {
+    "name": "Shadi Farzankia",
+    "url": "https://observablehq.com/@shadi-farzankia"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
